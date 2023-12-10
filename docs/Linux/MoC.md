@@ -6,5 +6,5 @@ has_children: true
 permalink: docs/Linux
 ---
 
-# MoC
+# Linux Study logs
 

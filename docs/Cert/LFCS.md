@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LFCS
-parent: Linux
+parent: Cert
 nav-order: 1
 ---
 
