@@ -9,9 +9,7 @@ nav_order: 2
 Hi, My name is Yon. This is my personal study logs.
 
 # Achievements
-| Date   | Certification                                | 
-|--------|----------------------------------------------|
-| 2023.09 | [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/) |
-| 2021.12 | [리눅스 마스터 2급](https://www.ihd.or.kr/introducesubject1.do) |
+- 2023.09 - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/)
+- 2021.12 - [리눅스 마스터 2급](https://www.ihd.or.kr/introducesubject1.do)
 
 
