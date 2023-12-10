@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LFCS
-parent: Cert
+parent: Certifications
 nav-order: 1
 ---
 
