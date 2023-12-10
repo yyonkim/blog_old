@@ -6,3 +6,5 @@ has_children: true
 permalink: docs/Redis
 ---
 
+# Redis Study logs
+
