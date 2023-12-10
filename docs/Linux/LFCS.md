@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LFCS
-parent: MoC
+parent: Linux
 nav-order: 1
 ---
 

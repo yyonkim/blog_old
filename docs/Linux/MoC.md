@@ -7,4 +7,4 @@ permalink: docs/Linux
 ---
 
 # MoC
-test contents
+
