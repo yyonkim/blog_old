@@ -2,6 +2,8 @@
 layout: default
 title: User Account Management
 parent: Foundations
+grand_parent: Linux
+permalink: /docs/Linux/Foundations/UserAccountManagement/
 nav-order: 1
 ---
 
