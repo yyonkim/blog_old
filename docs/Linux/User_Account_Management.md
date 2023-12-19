@@ -79,7 +79,7 @@ Number of days of warning before password expires	: 7
 
 ---
 
-# Creating User Account with `useradd`
+## Creating User Account with `useradd`
 ---
 > useradd allows for default operation:
 ```bash
