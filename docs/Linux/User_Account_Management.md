@@ -86,14 +86,23 @@ Number of days of warning before password expires	: 7
 sudo useradd yonkim
 ```
 
-(1) /etc/login.defs에 정의된 UID_MIN보다 높은 값의 UID가 yonkim에게 부여됨
-(2) 동일 GID=UID의 유저그룹이 yonkim의 primary 유저 그룹으로 배정
-(3) /home/yonkim 생성 (owner: yonkim)
-(4) yonkim의 기본 로그인 셸은 /bin/bash
-(5) /etc/skel 의 컨텐츠(startup files)가 /home/yonkim에 복사됨
-(6) /etc/passwd 파일에 yonkim의 엔트리에 !!가 추가됨, 향후 admin에 의한 패스워드 부여 필요
+1. /etc/login.defs에 정의된 UID_MIN보다 높은 값의 UID가 yonkim에게 부여됨
+2. 동일 GID=UID의 유저그룹이 yonkim의 primary 유저 그룹으로 배정
+3. /home/yonkim 생성 (owner: yonkim)
+4. yonkim의 기본 로그인 셸은 /bin/bash
+- /etc/default/useradd에 정의된 로그인 셸에 따라 부여되며 OS별로 상이할 수 있음	
+5. /etc/skel 의 컨텐츠(startup files)가 /home/yonkim에 복사됨
+6. /etc/passwd 파일에 yonkim의 엔트리에 !!가 추가됨, 향후 admin에 의한 패스워드 부여 필요
 
 > tweak useradd command options when executed
 ```
 $ sudo useradd -s /bin/csh -m -k /etc/skel -c "Yon default user" yonkim
 ```
+## Sudo, Su, Su -
+---
+
+- sudo: Root가 아닌 유저가 Root 권한을 빌려 명령을 실행 (명령 주체: 현재 유저)
+- su: Root 셸 사용 | # /root/.bashrc  사용
+- su -: Root 셸 사용 | $user의 ~/.bashrc 사용
+
+Note: sudoers에서 허가된 유저의 경우 Root 패스워드 불필요 
