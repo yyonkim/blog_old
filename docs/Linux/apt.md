@@ -2,7 +2,7 @@
 layout: default
 title: APT
 parent: Package Management
-grand_parent: Foundations
+grand_parent: Linux
 permalink: /docs/Linux/Foundations/Package_Management/apt
 ---
 
