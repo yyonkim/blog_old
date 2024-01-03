@@ -4,7 +4,7 @@ title: Package Management
 parent: Foundations
 grand_parent: Linux
 has_children: true
-permalink: /docs/Linux/Foundations/Package_Management
+permalink: /docs/Linux/Foundations/Package_Management/
 nav-order: 3
 ---
 
