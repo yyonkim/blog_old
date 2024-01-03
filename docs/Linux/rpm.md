@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RPM
-parent: Package_Management
+parent: Package Management
 grand_parent: Foundations
 permalink: /docs/Linux/Foundations/Package_Management/rpm
 ---

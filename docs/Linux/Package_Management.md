@@ -5,7 +5,6 @@ parent: Foundations
 grand_parent: Linux
 has_children: true
 permalink: /docs/Linux/Foundations/Package_Management/
-nav-order: 3
 ---
 
 ## Package Types

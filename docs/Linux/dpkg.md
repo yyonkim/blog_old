@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DPKG
-parent: Package_Management
+parent: Package Management
 grand_parent: Foundations
 permalink: /docs/Linux/Foundations/Package_Management/dpkg
 ---
