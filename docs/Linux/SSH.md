@@ -1,9 +1,9 @@
 ---
 layout: default
 title: SSH
-parent: Foundations
+parent: Networking
 grand_parent: Linux
-permalink: /docs/Linux/Foundations/SSH/
+permalink: /docs/Linux/Networking/SSH/
 nav-order: 2
 ---
 
