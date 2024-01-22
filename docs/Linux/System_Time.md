@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SSH
+title: Linux System Time
 parent: System Time
 grand_parent: Linux
 permalink: /docs/Linux/Foundations/SystemTime/
