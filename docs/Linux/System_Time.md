@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Linux System Time
-parent: System Time
-grand_parent: Linux
-permalink: /docs/Linux/Foundations/SystemTime/
+parent: Linux
+permalink: /docs/Linux/
 nav-order: 3
 tags:
 - linux

@@ -1,9 +1,8 @@
 ---
 layout: default
 title: APT
-parent: Package Management
-grand_parent: Linux
-permalink: /docs/Linux/Foundations/Package_Management/apt
+parent: Linux
+permalink: /docs/Linux/apt
 tags:
 - linux
 ---

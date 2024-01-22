@@ -1,9 +1,8 @@
 ---
 layout: default
 title: SSH
-parent: Networking
-grand_parent: Linux
-permalink: /docs/Linux/Networking/SSH/
+parent: Linux
+permalink: /docs/Linux/SSH/
 nav-order: 2
 tags: 
 - linux

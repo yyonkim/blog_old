@@ -1,9 +1,8 @@
 ---
 layout: default
 title: RPM
-parent: Package Management
-grand_parent: Linux
-permalink: /docs/Linux/Foundations/Package_Management/rpm
+parent: Linux
+permalink: /docs/Linux/rpm
 tags:
 - linux
 ---

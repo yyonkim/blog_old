@@ -1,9 +1,8 @@
 ---
 layout: default
 title: DPKG
-parent: Package Management
-grand_parent: Linux
-permalink: /docs/Linux/Foundations/Package_Management/dpkg
+parent: Linux
+permalink: /docs/Linux/dpkg
 tags:
 - linux
 ---
