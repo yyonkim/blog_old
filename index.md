@@ -11,8 +11,3 @@ This blog is build with [Just the Docs theme](https://just-the-docs.github.io/ju
 - Programming skill development logs
 - And more :)
 
-# Tag cloud
-{% include tags/cloud.html %}
-
-# Tag index
-{% include tags/descriptions.html %}
