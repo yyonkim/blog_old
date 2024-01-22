@@ -7,7 +7,8 @@ url: https://yyonkim.github.io
 
 aux_links:
   #Template Repository: https://github.com/just-the-docs/just-the-docs-template
-  Template Repository: https://github.com/yyonkim/yyonkim.github.io
+  #Template Repository: https://github.com/yyonkim/yyonkim.github.io
+  Tags: https://yyonkim.github.io/docs/Tags.html
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark

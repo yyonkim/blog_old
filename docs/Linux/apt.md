@@ -4,6 +4,8 @@ title: APT
 parent: Package Management
 grand_parent: Linux
 permalink: /docs/Linux/Foundations/Package_Management/apt
+tags:
+- linux
 ---
 
 ## apt 쿼리

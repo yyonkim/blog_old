@@ -4,6 +4,8 @@ title: RPM
 parent: Package Management
 grand_parent: Linux
 permalink: /docs/Linux/Foundations/Package_Management/rpm
+tags:
+- linux
 ---
 
 ## RPM

@@ -7,7 +7,6 @@ permalink: /docs/Linux/Networking/SSH/
 nav-order: 2
 tags: 
 - linux
-- ssh
 ---
 
 # SSH
