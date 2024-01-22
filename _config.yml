@@ -14,8 +14,6 @@ color_scheme: dark
 
 # Build settings
 theme: default
-plugins:
-  - jekyll-feed
 
 header_pages:
   - tag/index.md
