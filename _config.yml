@@ -13,7 +13,6 @@ aux_links:
 color_scheme: dark
 
 # Build settings
-theme: just-the-docs
 
 header_pages:
   - tag/index.md
