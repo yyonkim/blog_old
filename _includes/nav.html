@@ -1,4 +1,4 @@
-{%- assign groups = include.nodes | group_by:"category" | sort:"name" -%}
+{%- assign groups = include.nodes | group_by:"category" | sort:"title" -%}
 {%- if groups.size > 0 -%}
   <ul class="navigation-list{{ include.class }}">
     {%- for group in groups -%}
