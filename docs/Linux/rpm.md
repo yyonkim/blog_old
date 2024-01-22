@@ -1,8 +1,8 @@
 ---
 layout: default
-title: RPM
+title: PKG - RPM
 parent: Linux
-permalink: /docs/Linux/rpm
+permalink: /docs/Linux
 tags:
 - linux
 ---

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: APT
+title: PKG - APT
 parent: Linux
-permalink: /docs/Linux/apt
+permalink: /docs/Linux
 tags:
 - linux
 ---

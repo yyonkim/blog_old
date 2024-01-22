@@ -1,8 +1,8 @@
 ---
 layout: default
-title: DPKG
+title: PKG - DPKG
 parent: Linux
-permalink: /docs/Linux/dpkg
+permalink: /docs/Linux
 tags:
 - linux
 ---

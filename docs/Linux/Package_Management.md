@@ -2,8 +2,7 @@
 layout: default
 title: Package Management
 parent: Linux
-has_children: true
-permalink: /docs/Linux/Foundations/Package_Management/
+permalink: /docs/Linux/
 ---
 
 ## Package Types
