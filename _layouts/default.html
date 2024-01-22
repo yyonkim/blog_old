@@ -33,8 +33,27 @@ layout: table_wrappers
       {% include components/search_footer.html %}
     {% endif %}
   </div>
+<!-- add some codes-->
+      <div class="navigation main-nav js-main-nav">
+        <nav aria-label="Main navigation" role="navigation">
+          {%- include nav.html nodes=top_nodes -%}
+          {%- include nav_tags.html -%}
+        </nav>
+      </div>
 
-  {% if site.mermaid %}
+        <div class="page">
+          {% unless page.url == "/" %}
+            {% if page.parent %}
+              <nav class="breadcrumb-nav">
+                <ol class="breadcrumb-nav-list">
+                  {%- include crumbs.html nodes=top_nodes -%}
+                </ol>
+              </nav>
+            {% endif %}
+          {% endunless %}
+ <!-- until here -->
+ 
+{% if site.mermaid %}
     {% include components/mermaid.html %}
   {% endif %}
 </body>
