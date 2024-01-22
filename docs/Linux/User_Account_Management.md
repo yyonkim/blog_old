@@ -4,6 +4,8 @@ title: User Account Management
 parent: Foundations
 grand_parent: Linux
 permalink: /docs/Linux/Foundations/UserAccountManagement/
+tags:
+- Linux
 nav-order: 1
 ---
 # User Account Management
