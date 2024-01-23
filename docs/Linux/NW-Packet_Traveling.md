@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NW-네트워크 패킷의 흐름(Packet Traveling)
+title: NW-Packet Traveling
 parent: Linux
 permalink: /docs/Linux
 tags:

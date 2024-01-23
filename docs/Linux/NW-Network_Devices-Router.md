@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NW-라우터(Router)
+title: NW-Router
 parent: Linux
 permalink: /docs/Linux
 tags:

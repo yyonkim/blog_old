@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NW-스위치(Switch)
+title: NW-Switch
 parent: Linux
 permalink: /docs/Linux
 tags:
