@@ -2,7 +2,9 @@
 layout: default
 title: NW-네트워크 패킷의 흐름(Packet Traveling)
 parent: Linux
-permalink: /docs/Linux/
+permalink: /docs/Linux
+tags:
+- linux
 ---
 
 ### Terms

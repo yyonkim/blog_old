@@ -1,8 +1,10 @@
 ---
 layout: default
-title: NW-네트워크 장비(Network Devices)-스위치
+title: NW-스위치(Switch)
 parent: Linux
-permalink: /docs/Linux/
+permalink: /docs/Linux
+tags:
+- linux
 ---
 
 ### 스위치(Switch)

@@ -1,8 +1,10 @@
 ---
 layout: default
-title: NW-네트워크 장비(Network Devices)-라우터
+title: NW-라우터(Router)
 parent: Linux
-permalink: /docs/Linux/
+permalink: /docs/Linux
+tags:
+- linux
 ---
 
 ### 라우터(Router)
@@ -20,4 +22,17 @@ permalink: /docs/Linux/
 
 ### Address Resolution Protocol(ARP)
 ---
-> Layer 2
+> Layer 2의 주소 스키마가 MAC Address 로 구성되어 있다면, Layer 3의 주소 스키마는 IP Address로 구성되어 있다. ARP는 L2, L3의 주소 스키마를 연결해주는 다리 역할을 한다. 
+
+- 일반적으로 두 호스트(Host)가 서로 통신할 때는 이미 서로의 IP 주소를 알고 있다. 유저가 수동으로 제공해줬던지, DNS와 같은 다른 프로토콜을 통해서도 알아낼 수 있다. 그러나 서로의 MAC 주소까지 알고 있는 상황은 아니다. 
+
+- 서로의 적절한 MAC 주소를 확인하기 위해 ARP를 사용한다. 다시 말하면, ARP는 이미 알고 있는 IP 주소를 이용하여 현재 모르는 MAC 주소를 식별하는 방식이다. 확인된 MAC 주소는 ARP 테이블에 추가되며, IP 주소 <-> MAC 주소 간의 매핑 정보로 기록된다.
+
+
+### Case 1: 동일 네트워크 내의 호스트 간의 ARP
+---
+(작성 중)
+
+### Case 2: 서로 다른 네트워크에 위치한 호스트간의 ARP
+---
+(작성 중)
