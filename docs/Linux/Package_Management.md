@@ -2,7 +2,6 @@
 layout: default
 title: Package Management
 parent: Linux
-permalink: /docs/Linux/
 ---
 
 ## Package Types

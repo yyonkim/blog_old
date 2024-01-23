@@ -2,7 +2,6 @@
 layout: default
 title: User Account Management
 parent: Linux
-permalink: /docs/Linux/
 nav-order: 1
 tags:
 - linux

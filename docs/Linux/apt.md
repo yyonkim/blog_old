@@ -2,7 +2,6 @@
 layout: default
 title: PKG - APT
 parent: Linux
-permalink: /docs/Linux
 tags:
 - linux
 ---

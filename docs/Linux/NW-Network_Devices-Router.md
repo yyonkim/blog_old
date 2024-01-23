@@ -2,7 +2,6 @@
 layout: default
 title: NW-Router
 parent: Linux
-permalink: /docs/Linux
 tags:
 - linux
 ---

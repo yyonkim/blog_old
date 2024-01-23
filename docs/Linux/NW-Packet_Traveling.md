@@ -2,7 +2,6 @@
 layout: default
 title: NW-Packet Traveling
 parent: Linux
-permalink: /docs/Linux
 tags:
 - linux
 ---
