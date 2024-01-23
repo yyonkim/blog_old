@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NW-Switch
+title: NW - Switch
 parent: Linux
 tags:
 - linux

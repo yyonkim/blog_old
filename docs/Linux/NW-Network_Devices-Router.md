@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NW-Router
+title: NW - Router
 parent: Linux
 tags:
 - linux

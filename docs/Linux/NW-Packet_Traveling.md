@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NW-Packet Traveling
+title: NW - Packet Traveling
 parent: Linux
 tags:
 - linux
