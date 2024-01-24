@@ -20,3 +20,8 @@ color_scheme: dark
 
 header_pages:
   - tag/index.md
+
+callouts:
+  note:
+    title: Note
+    color: green
